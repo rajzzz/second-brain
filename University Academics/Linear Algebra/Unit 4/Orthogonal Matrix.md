@@ -1,0 +1,1 @@
+[[matrix]] which is equal to its transpose. 

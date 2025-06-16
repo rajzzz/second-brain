@@ -1,4 +1,4 @@
-```
+``` java
 public class MyServlet implements Servlet {
 	public void init(ServletConfig config)
 		throws ServletException

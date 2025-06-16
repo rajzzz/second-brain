@@ -4,45 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "260a22c9f7e689ba",
+        "id": "73b3a34a22cf68f9",
         "type": "tabs",
         "children": [
           {
-            "id": "32f27c3dad17d208",
+            "id": "804f3f75376db930",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "a2dd1780b4986fd8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "University Academics/Web Technologies/Components in CSS.md",
-                "mode": "source",
-                "source": false
-              },
               "icon": "lucide-file",
-              "title": "Components in CSS"
-            }
-          },
-          {
-            "id": "3f46c77494989c4c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "University Academics/Web Technologies/Servlet/Life Cycle of a Servlet.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Life Cycle of a Servlet"
+              "title": "New tab"
             }
           }
         ]
@@ -77,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#obsidian",
+                "query": "tag:#machine",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "8532ad8062b196cd",
@@ -165,12 +137,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "University Academics/Web Technologies/XSS.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of XSS"
             }
           },
           {
@@ -198,7 +171,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -212,37 +186,49 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "32f27c3dad17d208",
+  "active": "804f3f75376db930",
   "lastOpenFiles": [
-    "University Academics/Web Technologies/Servlet/Life Cycle of a Servlet.md",
-    "University Academics/Web Technologies/Servlet/Handling request.md",
-    "University Academics/Web Technologies/Servlet/Destroying a Servlet.md",
-    "University Academics/Web Technologies/Servlet/destroy().md",
-    "University Academics/Web Technologies/Components in CSS.md",
-    "University Academics/Web Technologies/How to Prevent XSS.md",
-    "innerHTML.md",
-    "HTTPS.md",
-    "University Academics/Web Technologies/Servlet/service().md",
-    "University Academics/Web Technologies/Servlet/init().md",
-    "University Academics/Web Technologies/Servlet/Initialising the Servlet.md",
-    "University Academics/Web Technologies/Servlet/Loading a Servlet.md",
-    "University Academics/Web Technologies/Servlet/Servlet.md",
+    "Others/XSS.md",
+    "University Academics/Linear Algebra/Unit 2/One-Way ANOVA.md",
+    "Others/Biba Security Model.md",
+    "Others",
+    "Regression Diagnostics.md",
+    "University Academics/Linear Algebra/Unit 4/vectors.md",
     "Obsidian/Notes.md",
-    "University Academics/Web Technologies/Servlet/Pasted image 20250608153717.png",
-    "University Academics/Web Technologies/Servlet",
-    "Untitled",
-    "Pasted image 20250608154910.png",
-    "University Academics/Web Technologies/Untitled.canvas",
-    "Obsidian/Links.md",
-    "Obsidian/Learning About Obsidian.md",
-    "Obsidian",
-    "University Academics/Web Technologies",
-    "University Academics",
+    "Statistical Inference & Data Variability.md",
+    "University Academics/Linear Algebra/Unit 4/Linearly Independent.md",
+    "University Academics/Machine Learning",
+    "University Academics/Linear Algebra/Unit 2/ANOVA.md",
+    "University Academics/Linear Algebra/Unit 2/Linear Models.md",
+    "University Academics/Linear Algebra/Unit 1/mean.md",
+    "University Academics/Linear Algebra/Unit 1/Variance.md",
+    "University Academics/Linear Algebra/Unit 2",
+    "University Academics/Unit2.md.md",
+    "University Academics/Linear Algebra/Unit 1/Standard Deviation.md",
+    "University Academics/Linear Algebra/Unit 1/Step Deviation Method.md",
+    "University Academics/Linear Algebra/Unit 1",
+    "2025-06-12.md",
+    "University Academics/Linear Algebra/Unit 4/Span.md",
+    "University Academics/Linear Algebra/Unit 4/SVD.md",
+    "University Academics/Linear Algebra/Unit 4/Basis.md",
+    "University Academics/Linear Algebra/Unit 4",
+    "University Academics/Linear Algebra/Unit 4/Eigen Decomposition.md",
+    "University Academics/Linear Algebra/Unit 4/Rank.md",
     "Untitled.canvas",
-    "2025-06-08.md",
-    "Pormpts",
-    "HackTheBox",
-    "create a link.md",
-    "Welcome.md"
+    "University Academics/Linear Algebra/Unit 4/Special Types of Vectors.md",
+    "University Academics/Linear Algebra/Unit 4/matrix.md",
+    "University Academics/Linear Algebra/Unit 4/Eigenvalues and Eigenvectors.md",
+    "University Academics/Linear Algebra/Unit 4/Orthogonal Matrix.md",
+    "Eigenvalues",
+    "Pasted image 20250611040141.png",
+    "University Academics/Linear Algebra",
+    "University Academics/Web Technologies/Unit 2/Servlet/Pasted image 20250608222456.png",
+    "University Academics/Web Technologies/Unit 2/Servlet/Pasted image 20250608153717.png",
+    "University Academics/Web Technologies/Unit 3",
+    "Pasted image 20250608222247.png",
+    "University Academics/Web Technologies/Unit 2",
+    "University Academics/Web Technologies/Unit 1",
+    "Pasted image 20250608154910.png",
+    "University Academics/Web Technologies/Untitled.canvas"
   ]
 }

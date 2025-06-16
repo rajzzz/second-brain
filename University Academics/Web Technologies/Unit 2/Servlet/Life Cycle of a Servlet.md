@@ -1,4 +1,4 @@
-#java #servlet #pastQuestion
+#java #pastQuestion
 The entire Life cycle of a [[Servlet]] is managed by the [[Servlet container]] which uses ``jakarta.servlet.Servlet`` interface.
 
 ![[Pasted image 20250608153717.png]]

@@ -1,22 +1,37 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": true,
+  "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": false,
+  "hideUnresolved": true,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "path:\"University Academics/Linear Algebra\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16205125
+      }
+    },
+    {
+      "query": "path:\"University Academics/Web Technologies\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 4374783
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
+  "textFadeMultiplier": -0.5,
   "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "lineSizeMultiplier": 1.63125,
   "collapse-forces": false,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "centerStrength": 0.46875,
+  "repelStrength": 9.89583333333333,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.6644414910880492,
-  "close": false
+  "linkDistance": 148,
+  "scale": 0.46822130772748,
+  "close": true
 }
