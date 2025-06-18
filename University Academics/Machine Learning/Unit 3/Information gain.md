@@ -1,0 +1,1 @@
+$$\Large IG(S,A) = Entropy(S) -\sum_{v\in Values(A)}\frac{|S_v|}{S}. Entropy(S_v)$$

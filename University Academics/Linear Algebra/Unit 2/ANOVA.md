@@ -28,4 +28,4 @@ The fundamental principle is that if the between-group variability is significan
 * The results are summarized in an **Analysis of Variance (ANOVA) table**.
 
 ---
-[[Statistical Inference & Data Variability - Overview]] | [[ANOVA - Applications]] | [[One-Way ANOVA]] | [[Factorial Experiments - Overview]]
+[[Statistical Inference & Data Variability]] | [[One-Way ANOVA]] | 

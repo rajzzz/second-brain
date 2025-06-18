@@ -1,0 +1,2 @@
+- A situation where two or more independent variables are highly correlated
+- This makes it difficult for the Regression model to seperate their individual effects on the dependent variable. 

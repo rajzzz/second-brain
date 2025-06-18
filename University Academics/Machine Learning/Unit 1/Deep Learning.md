@@ -1,0 +1,1 @@
+A subset of Machine Learning that uses artificial [[neural networks]] for complex task like image and speech recognition.

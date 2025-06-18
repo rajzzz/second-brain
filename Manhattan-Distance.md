@@ -1,0 +1,1 @@
+$$\Large D_{Manhattan​}=∣x_2​−x_1​∣+∣y_2​−y_1​∣$$

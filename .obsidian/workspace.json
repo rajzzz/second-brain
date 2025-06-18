@@ -8,13 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "804f3f75376db930",
+            "id": "5816e5b6b5dcb1b6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "University Academics/Machine Learning/Unit 3/Bagging.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Bagging"
+            }
+          },
+          {
+            "id": "a0b0234d520be621",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "University Academics/Machine Learning/Unit 2/Logistic Regression.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Logistic Regression"
             }
           }
         ]
@@ -49,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#machine",
+                "query": "regression",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 377.5
   },
   "right": {
     "id": "8532ad8062b196cd",
@@ -171,8 +189,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 405.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,49 +203,55 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "804f3f75376db930",
+  "active": "5816e5b6b5dcb1b6",
   "lastOpenFiles": [
-    "Others/XSS.md",
-    "University Academics/Linear Algebra/Unit 2/One-Way ANOVA.md",
-    "Others/Biba Security Model.md",
+    "University Academics/Machine Learning/Unit 3/Boosting.md",
+    "University Academics/Machine Learning/Unit 3/Bagging.md",
+    "University Academics/Machine Learning/Unit 3/AdaBoost.md",
+    "University Academics/Machine Learning/Unit 3/Bootstrap samples.md",
+    "University Academics/Machine Learning/Unit 2/Ridge-Regularization.md",
+    "University Academics/Machine Learning/Unit 2/Logistic Regression.md",
+    "University Academics/Machine Learning/Unit 2/Lasso-Regularization.md",
+    "University Academics/Machine Learning/Unit 2/Elastic-Net-Regression.md",
+    "University Academics/Machine Learning/Unit 1/Underfitting.md",
+    "University Academics/Machine Learning/Unit 1/Semi-Supervised Learning.md",
+    "University Academics/Machine Learning/Unit 1/Reinforcement Learning.md",
+    "University Academics/Machine Learning/Unit 1/Overfitting.md",
+    "University Academics/Machine Learning/Unit 1/Markov-Process.md",
+    "University Academics/Machine Learning/Unit 1/Machine Learning Model.md",
+    "University Academics/Machine Learning/Unit 1/Machine Learning.md",
+    "University Academics/Machine Learning/Unit 1/Labels.md",
+    "University Academics/Machine Learning/Unit 1/Issues.md",
+    "University Academics/Machine Learning/Unit 1/Algorithmic-Bias.md",
+    "University Academics/Machine Learning/Unit 1/Hidden Markov Model.md",
+    "University Academics/Machine Learning/Unit 1/Features.md",
+    "University Academics/Machine Learning/Unit 1/Deep Learning.md",
+    "University Academics/Machine Learning/Unit 3/Random Forests.md",
+    "University Academics/Machine Learning/Unit 3/Classification.md",
+    "University Academics/Machine Learning/Unit 1/Supervised Learning.md",
+    "University Academics/Linear Algebra/Unit 2/Regression-Analysis.md",
+    "University Academics/Linear Algebra/Unit 2/Regression Line.md",
+    "University Academics/Machine Learning/Images/Pasted image 20250617180122.png",
+    "University Academics/Machine Learning/Images/Pasted image 20250617211237.png",
+    "University Academics/Machine Learning/Images/Pasted image 20250617210724.png",
+    "University Academics/Machine Learning/Images",
+    "University Academics/Machine Learning/Unit 3/Untitled",
+    "University Academics/Machine Learning/Images/Pasted image 20250617210534.png",
+    "University Academics/Machine Learning/Images/Pasted image 20250617205035.png",
+    "University Academics/Machine Learning/Images/Pasted image 20250617180132.png",
+    "University Academics/Machine Learning/Unit 4",
+    "University Academics/Machine Learning/Unit 2",
+    "University Academics/Machine Learning/Unit 3",
+    "University Academics/Machine Learning/Unit 1",
     "Others",
-    "Regression Diagnostics.md",
-    "University Academics/Linear Algebra/Unit 4/vectors.md",
-    "Obsidian/Notes.md",
-    "Statistical Inference & Data Variability.md",
-    "University Academics/Linear Algebra/Unit 4/Linearly Independent.md",
     "University Academics/Machine Learning",
-    "University Academics/Linear Algebra/Unit 2/ANOVA.md",
-    "University Academics/Linear Algebra/Unit 2/Linear Models.md",
-    "University Academics/Linear Algebra/Unit 1/mean.md",
-    "University Academics/Linear Algebra/Unit 1/Variance.md",
     "University Academics/Linear Algebra/Unit 2",
-    "University Academics/Unit2.md.md",
-    "University Academics/Linear Algebra/Unit 1/Standard Deviation.md",
-    "University Academics/Linear Algebra/Unit 1/Step Deviation Method.md",
     "University Academics/Linear Algebra/Unit 1",
-    "2025-06-12.md",
-    "University Academics/Linear Algebra/Unit 4/Span.md",
-    "University Academics/Linear Algebra/Unit 4/SVD.md",
-    "University Academics/Linear Algebra/Unit 4/Basis.md",
-    "University Academics/Linear Algebra/Unit 4",
-    "University Academics/Linear Algebra/Unit 4/Eigen Decomposition.md",
-    "University Academics/Linear Algebra/Unit 4/Rank.md",
     "Untitled.canvas",
-    "University Academics/Linear Algebra/Unit 4/Special Types of Vectors.md",
-    "University Academics/Linear Algebra/Unit 4/matrix.md",
-    "University Academics/Linear Algebra/Unit 4/Eigenvalues and Eigenvectors.md",
-    "University Academics/Linear Algebra/Unit 4/Orthogonal Matrix.md",
-    "Eigenvalues",
     "Pasted image 20250611040141.png",
-    "University Academics/Linear Algebra",
     "University Academics/Web Technologies/Unit 2/Servlet/Pasted image 20250608222456.png",
     "University Academics/Web Technologies/Unit 2/Servlet/Pasted image 20250608153717.png",
-    "University Academics/Web Technologies/Unit 3",
     "Pasted image 20250608222247.png",
-    "University Academics/Web Technologies/Unit 2",
-    "University Academics/Web Technologies/Unit 1",
-    "Pasted image 20250608154910.png",
     "University Academics/Web Technologies/Untitled.canvas"
   ]
 }

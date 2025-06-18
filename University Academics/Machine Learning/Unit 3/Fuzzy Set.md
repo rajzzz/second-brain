@@ -1,0 +1,1 @@
+A fuzzy set is a set where elements have degrees of membership rather than just belonging or not belonging.

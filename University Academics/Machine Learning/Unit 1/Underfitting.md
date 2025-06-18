@@ -1,0 +1,1 @@
+The model is too simple to capture the underlying patterns in the data and performs poorly on both [[Training Data]] and [[Testing Data]]
