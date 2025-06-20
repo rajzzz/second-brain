@@ -1,0 +1,3 @@
+- Stored on the client's machine
+- has a set expiry time usind `cookie.setMaxAge(seconds)`
+- Exissts even when the browser is closed, reused until Expired

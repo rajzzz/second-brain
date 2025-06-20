@@ -1,0 +1,4 @@
+- Temporary cookie
+- Exists only during the browser session
+- Depleted once the browser is closed
+- No set expiration time

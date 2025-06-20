@@ -4,38 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "73b3a34a22cf68f9",
+        "id": "836f8d53bae34aa8",
         "type": "tabs",
         "children": [
           {
-            "id": "5816e5b6b5dcb1b6",
+            "id": "026189b395f54f3f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University Academics/Machine Learning/Unit 3/Bagging.md",
+                "file": "University Academics/Advanced Java Programming/pyp.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bagging"
+              "title": "pyp"
             }
           },
           {
-            "id": "a0b0234d520be621",
+            "id": "9b8ba88da23783cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University Academics/Machine Learning/Unit 2/Logistic Regression.md",
+                "file": "University Academics/Web Technologies/Unit 2/Servlet/Handling request.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Logistic Regression"
+              "title": "Handling request"
+            }
+          },
+          {
+            "id": "9d034049c1700943",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "University Academics/Web Technologies/Unit 2/Servlet/Servlet.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Servlet"
+            }
+          },
+          {
+            "id": "cd9048173df3b133",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "University Academics/Advanced Java Programming/Unit 1/Serializable Interface.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Serializable Interface"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -92,7 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 377.5
+    "width": 269.5
   },
   "right": {
     "id": "8532ad8062b196cd",
@@ -189,7 +218,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 405.5
+    "width": 372.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,55 +232,55 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5816e5b6b5dcb1b6",
+  "active": "9b8ba88da23783cd",
   "lastOpenFiles": [
-    "University Academics/Machine Learning/Unit 3/Boosting.md",
-    "University Academics/Machine Learning/Unit 3/Bagging.md",
-    "University Academics/Machine Learning/Unit 3/AdaBoost.md",
-    "University Academics/Machine Learning/Unit 3/Bootstrap samples.md",
-    "University Academics/Machine Learning/Unit 2/Ridge-Regularization.md",
-    "University Academics/Machine Learning/Unit 2/Logistic Regression.md",
-    "University Academics/Machine Learning/Unit 2/Lasso-Regularization.md",
-    "University Academics/Machine Learning/Unit 2/Elastic-Net-Regression.md",
-    "University Academics/Machine Learning/Unit 1/Underfitting.md",
-    "University Academics/Machine Learning/Unit 1/Semi-Supervised Learning.md",
-    "University Academics/Machine Learning/Unit 1/Reinforcement Learning.md",
-    "University Academics/Machine Learning/Unit 1/Overfitting.md",
-    "University Academics/Machine Learning/Unit 1/Markov-Process.md",
-    "University Academics/Machine Learning/Unit 1/Machine Learning Model.md",
-    "University Academics/Machine Learning/Unit 1/Machine Learning.md",
-    "University Academics/Machine Learning/Unit 1/Labels.md",
-    "University Academics/Machine Learning/Unit 1/Issues.md",
-    "University Academics/Machine Learning/Unit 1/Algorithmic-Bias.md",
-    "University Academics/Machine Learning/Unit 1/Hidden Markov Model.md",
-    "University Academics/Machine Learning/Unit 1/Features.md",
-    "University Academics/Machine Learning/Unit 1/Deep Learning.md",
-    "University Academics/Machine Learning/Unit 3/Random Forests.md",
-    "University Academics/Machine Learning/Unit 3/Classification.md",
-    "University Academics/Machine Learning/Unit 1/Supervised Learning.md",
-    "University Academics/Linear Algebra/Unit 2/Regression-Analysis.md",
-    "University Academics/Linear Algebra/Unit 2/Regression Line.md",
+    "University Academics/Web Technologies/Unit 2/Servlet/HTTP Servlets.md",
+    "University Academics/Web Technologies/Unit 2/Servlet/Destroying a Servlet.md",
+    "University Academics/Web Technologies/Unit 2/Servlet/destroy().md",
+    "University Academics/Web Technologies/Unit 2/Servlet/Generic Servlets.md",
+    "University Academics/Web Technologies/Unit 1/HTTP Request.md",
+    "University Academics/Web Technologies/Unit 2/Servlet/Life Cycle of a Servlet.md",
+    "University Academics/Web Technologies/Unit 2/Servlet/Loading a Servlet.md",
+    "University Academics/Web Technologies/Unit 2/Servlet/Pasted image 20250608222456.png",
+    "University Academics/Web Technologies/Unit 2/Servlet/service().md",
+    "University Academics/Web Technologies/Unit 2/Servlet/Pasted image 20250608153717.png",
+    "University Academics/Web Technologies/Unit 2/Servlet/Servlet Architecture.md",
+    "University Academics/Web Technologies/Unit 2/Servlet/Handling request.md",
+    "University Academics/Web Technologies/Unit 2/Servlet/Initialising the Servlet.md",
+    "University Academics/Web Technologies/Unit 2/Servlet/init().md",
+    "University Academics/Advanced Java Programming/Unit 4/ORM.md",
+    "University Academics/Web Technologies/Unit 2/Servlet/Servlet.md",
+    "University Academics/Advanced Java Programming/Unit 2/JavaBeans.md",
+    "University Academics/Advanced Java Programming/Unit 1/Java Server.md",
+    "University Academics/Advanced Java Programming/Unit 1/Applet.md",
+    "University Academics/Advanced Java Programming/Pasted image 20250619225154.png",
+    "University Academics/Advanced Java Programming/pyp.md",
+    "University Academics/Advanced Java Programming/Unit 4/RMI.md",
+    "University Academics/Advanced Java Programming/Unit 2/Cookies.md",
+    "University Academics/Advanced Java Programming/images/Pasted image 20250620011641.png",
+    "University Academics/Advanced Java Programming/Unit 1/Serializable Interface.md",
+    "University Academics/Advanced Java Programming/Unit 1/Interface.md",
+    "University Academics/Web Technologies/Unit 2/JSP.md",
+    "University Academics/Advanced Java Programming/Unit 3/Life Cycle of a JSP.md",
+    "University Academics/Advanced Java Programming/How JSP is better than Servlets.md",
+    "University Academics/ACID.md",
+    "University Academics/Advanced Java Programming/images/Pasted image 20250619230100.png",
+    "University Academics/Advanced Java Programming/images/Pasted image 20250619224919.png",
+    "University Academics/Advanced Java Programming/Unit 4",
+    "University Academics/Advanced Java Programming/images/Pasted image 20250619211608.png",
+    "University Academics/Advanced Java Programming/images/Pasted image 20250619184452.png",
+    "University Academics/Advanced Java Programming/images",
+    "University Academics/Advanced Java Programming/Unit 1",
+    "University Academics/Advanced Java Programming/Unit 3",
+    "University Academics/Advanced Java Programming/Unit 2",
+    "University Academics/Advanced Java Programming",
     "University Academics/Machine Learning/Images/Pasted image 20250617180122.png",
     "University Academics/Machine Learning/Images/Pasted image 20250617211237.png",
-    "University Academics/Machine Learning/Images/Pasted image 20250617210724.png",
     "University Academics/Machine Learning/Images",
     "University Academics/Machine Learning/Unit 3/Untitled",
-    "University Academics/Machine Learning/Images/Pasted image 20250617210534.png",
-    "University Academics/Machine Learning/Images/Pasted image 20250617205035.png",
-    "University Academics/Machine Learning/Images/Pasted image 20250617180132.png",
     "University Academics/Machine Learning/Unit 4",
     "University Academics/Machine Learning/Unit 2",
-    "University Academics/Machine Learning/Unit 3",
-    "University Academics/Machine Learning/Unit 1",
-    "Others",
-    "University Academics/Machine Learning",
-    "University Academics/Linear Algebra/Unit 2",
-    "University Academics/Linear Algebra/Unit 1",
     "Untitled.canvas",
-    "Pasted image 20250611040141.png",
-    "University Academics/Web Technologies/Unit 2/Servlet/Pasted image 20250608222456.png",
-    "University Academics/Web Technologies/Unit 2/Servlet/Pasted image 20250608153717.png",
-    "Pasted image 20250608222247.png",
     "University Academics/Web Technologies/Untitled.canvas"
   ]
 }
