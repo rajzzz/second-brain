@@ -3,9 +3,9 @@
   "search": "",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": true,
+  "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:\"University Academics/Linear Algebra\"  ",
@@ -34,6 +34,13 @@
         "a": 1,
         "rgb": 7396208
       }
+    },
+    {
+      "query": "path:\"Computer Networks\" path:\"Computer Networks\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
     }
   ],
   "collapse-display": false,
@@ -46,6 +53,6 @@
   "repelStrength": 8.54166666666667,
   "linkStrength": 1,
   "linkDistance": 84,
-  "scale": 0.29273779585868726,
+  "scale": 0.13010568704830544,
   "close": true
 }
